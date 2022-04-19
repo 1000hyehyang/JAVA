@@ -2,7 +2,7 @@
 public class Ex03_01 {
 
 	public static void main(String[] args) {
-		System.out.printf("\n ÀÌ°ÍÀº\rsystem.out.printfÀÇ \t ¿¬½ÀÀÔ´Ï´Ù.\n");
+		System.out.printf("\n ì´ê²ƒì€\rsystem.out.printfì˜ \t ì—°ìŠµì…ë‹ˆë‹¤.\n");
 		System.out.printf("\n%d+%d=%f\n", 100, 200, 0.5);
 		System.out.printf("%d\n",123);
 		System.out.printf("%5d\n",123);	
@@ -12,8 +12,8 @@ public class Ex03_01 {
 		System.out.printf("%7.1f\n",123.45);
 		System.out.printf("%6.2f\n",123.45);
 		
-		System.out.printf("\n\"°­Á¶\"µÇ°í \"¹İº¹\"µÇ´Â ¼Ò¸®´Â °­¾ÆÁö¸¦ ºÒ¾ÈÇÏ°Ô ÇØ¿ä.\n");
-		System.out.printf("\\\\\\ ºÎ²ô·¯¿ö \\\\\\\n");
+		System.out.printf("\n\"ê°•ì¡°\"ë˜ê³  \"ë°˜ë³µ\"ë˜ëŠ” ì†Œë¦¬ëŠ” ê°•ì•„ì§€ë¥¼ ë¶ˆì•ˆí•˜ê²Œ í•´ìš”.\n");
+		System.out.printf("\\\\\\ ë¶€ë„ëŸ¬ì›Œ \\\\\\\n");
 
 	}
 
