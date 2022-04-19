@@ -1,4 +1,4 @@
-public class Ext06_01 {
+public class Ex06_01 {
 
 	public static void main(String[] args) {
 		int a = 200;
