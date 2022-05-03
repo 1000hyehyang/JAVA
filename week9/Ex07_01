@@ -1,0 +1,11 @@
+public class Ex07_01 {
+	
+	public static void main(String[] args) {
+		int i;
+		
+		for(i=0; i<5; i++)
+		{
+		System.out.printf("빙빙 돌아가는 회전목마처럼\n");
+		}
+	}
+}
