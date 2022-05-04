@@ -1,1 +1,2 @@
-# JAVA programming 수업 실습 및 과제 연습장 
+## 📌 JAVA programming Lesson practice and Assignment Exercise Book
+📚 This is a repository on the first semester of the required liberal arts course "Computer Programming" at Hankuk University of Foreign Studies 📚
