@@ -1,11 +1,12 @@
+
 public class Ex05_06 {
 
 	public static void main(String[] args) {
 		int a = 99;
 		
-		System.out.printf("AND ì—°ì‚° : %s \n", (a>=100)&&(a<=200));
-		System.out.printf("OR ì—°ì‚° : %s \n", (a>=100)||(a<=200));
-		System.out.printf("NOT ì—°ì‚° : %s \n", !(a ==100));
+		System.out.printf("AND ¿¬»ê : %s \n", (a>=100)&&(a<=200));
+		System.out.printf("OR ¿¬»ê : %s \n", (a>=100)||(a<=200));
+		System.out.printf("NOT ¿¬»ê : %s \n", !(a ==100));
 
 	}
 

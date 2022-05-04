@@ -1,9 +1,10 @@
+
 public class Ex05_12 {
 
 	public static void main(String[] args) {
 		int a =10;
-		System.out.printf("%dë¥¼ ì˜¤ë¥¸ìª½ 1íšŒ ì‹œí”„íŠ¸í•˜ë©´ %d ì´ë‹¤. \n", a, a>>1);
-		System.out.printf("%dë¥¼ ì˜¤ë¥¸ìª½ 2íšŒ ì‹œí”„íŠ¸í•˜ë©´ %d ì´ë‹¤. \n", a, a>>2);
+		System.out.printf("%d¸¦ ¿À¸¥ÂÊ 1È¸ ½ÃÇÁÆ®ÇÏ¸é %d ÀÌ´Ù. \n", a, a>>1);
+		System.out.printf("%d¸¦ ¿À¸¥ÂÊ 2È¸ ½ÃÇÁÆ®ÇÏ¸é %d ÀÌ´Ù. \n", a, a>>2);
 
 	}
 

@@ -1,11 +1,12 @@
+
 public class Ex05_05 {
 
 	public static void main(String[] args) {
 		int a = 100, b =200;
 		
-		System.out.printf("%d == %dëŠ” %s ì´ë‹¤. \n",  a,b,a==b);
-		System.out.printf("%d !=%dëŠ” %s ì´ë‹¤. \n", a,b,a!=b);
-		System.out.printf("%d = %dëŠ” %s ì´ë‹¤. \n", a,b,a=b);
+		System.out.printf("%d == %d´Â %s ÀÌ´Ù. \n",  a,b,a==b);
+		System.out.printf("%d !=%d´Â %s ÀÌ´Ù. \n", a,b,a!=b);
+		System.out.printf("%d = %d´Â %s ÀÌ´Ù. \n", a,b,a=b);
 
 	}
 

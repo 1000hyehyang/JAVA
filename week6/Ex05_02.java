@@ -1,3 +1,4 @@
+
 public class Ex05_02 {
 
 	public static void main(String[] args) {
@@ -12,7 +13,7 @@ public class Ex05_02 {
 		System.out.printf("%d +%d/%d = %3.1f \n",  a,b,c,result2);
 		
 		result1 = c/b;
-		System.out.printf("%d / %d ì˜ ëª«ì€ %d \n",  c, b, result1);
+		System.out.printf("%d / %d ÀÇ ¸òÀº %d \n",  c, b, result1);
 		
 	}
 
