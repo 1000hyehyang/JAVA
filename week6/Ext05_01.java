@@ -3,27 +3,22 @@ public class Ext05_01 {
 	public static void main(String[] args) {
 	Scanner s = new Scanner(System.in);
 	
-	int money,c500,c100,c50,c10;
+	int time,hour,minute,second;
 	
-	System.out.print("##ÍµêÌôòÌï† ÎèàÏùÄ?");
-	money = s.nextInt();
+	System.out.print("##∞ËªÍ«“ √ ¥¬?");
+	time = s.nextInt();
 	
-	c500 = money /500;
-	money = money %500;
+	hour = time /3600;
+	time = time %3600;
 	
-	c100 = money/100;
-	money = money %100;
+	minute = time/60;
+	time = time %60;
 	
-	c50 = money/50;
-	money = money %50;
-	c10 = money/10;
-	money = money %10;
+	second = time/1;
 	
-	System.out.printf("\nÏò§Î∞±ÏõêÏßúÎ¶¨ ==> %dÍ∞ú \n", c500);
-	System.out.printf("\nÎ∞±ÏõêÏßúÎ¶¨ ==> %dÍ∞ú \n", c100);
-	System.out.printf("\n50ÏõêÏßúÎ¶¨ ==> %dÍ∞ú\n", c50);
-	System.out.printf("\n10ÏõêÏßúÎ¶¨ ==> %dÍ∞ú\n", c10);
-	System.out.printf("Î∞îÍæ∏ÏßÄ Î™ªÌïú ÏûîÎèà ==> %d Ïõê \n", money);
+	System.out.printf("\n Ω√∞£¿∫ ==> %dΩ√∞£ ", hour);
+	System.out.printf("\n ∫–¿∫==> %d∫– ", minute);
+	System.out.printf("\n √ ¥¬ ==> %d√ ", second);
 	
 	s.close();
 }
