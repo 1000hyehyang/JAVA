@@ -6,11 +6,11 @@ public class Ext02_03 {
 		int result;
 		
 		Scanner s = new Scanner(System.in);
-		System.out.print("ì²«ë²ˆì§¸ ê³„ì‚°í•  ê°’ì„ ìž…ë ¥í•˜ì„¸ìš”==>");
+		System.out.print("Ã¹¹øÂ° °è»êÇÒ °ªÀ» ÀÔ·ÂÇÏ¼¼¿ä==>");
 		a=s.nextInt();
-		System.out.print("ë‘ë²ˆì§¸ ê³„ì‚°í•  ê°’ì„ ìž…ë ¥í•˜ì„¸ìš”==>");
+		System.out.print("µÎ¹øÂ° °è»êÇÒ °ªÀ» ÀÔ·ÂÇÏ¼¼¿ä==>");
 		b=s.nextInt();
-		System.out.print("ì„¸ë²ˆì§¸ ê³„ì‚°í•  ê°’ì„ ìž…ë ¥í•˜ì„¸ìš”==>");
+		System.out.print("¼¼¹øÂ° °è»êÇÒ °ªÀ» ÀÔ·ÂÇÏ¼¼¿ä==>");
 		c=s.nextInt();
 		
 		result=a*b*c;
