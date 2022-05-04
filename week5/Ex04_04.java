@@ -14,7 +14,7 @@ public class Ex04_04 {
 		System.out.printf("%c \n", c);
 		
 		d = '#';
-		System.out.printf("%cì˜ ASCIIê°’ì€ %dì…ë‹ˆë‹¤. \n", d, (int)d);
+		System.out.printf("%cÀÇ ASCII°ªÀº %dÀÔ´Ï´Ù. \n", d, (int)d);
 
 	}
 

@@ -16,7 +16,7 @@ public class Ex04_03 {
 		d = 90;
 		System.out.printf("%c \n", d);
 		
-		d = 'ê°€';
+		d = '°¡';
 		e = (char)(d+1);
 		System.out.printf("%d \t", (int)d);
 		System.out.printf("%c \n", e);

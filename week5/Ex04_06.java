@@ -2,11 +2,11 @@
 public class Ex04_06 {
 
 	public static void main(String[] args) {
-		String str1 = "ì €ëŠ” 1000hyehyang ìž…ë‹ˆë‹¤";
+		String str1 = "Àú´Â 1000hyehyang ÀÔ´Ï´Ù";
 		String str2 = "10";
 		String str3 = "20";
 		
-		str1 = "Orange ìž…ë‹ˆë‹¤.";
+		str1 = "Orange ÀÔ´Ï´Ù.";
 		
 		System.out.printf("%s \n", str1);
 		System.out.printf("%s \n", str2+str3);
