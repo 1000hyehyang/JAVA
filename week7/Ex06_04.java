@@ -1,3 +1,4 @@
+
 public class Ex06_04 {
 
 	public static void main(String[] args) {
@@ -5,13 +6,13 @@ public class Ex06_04 {
 		
 		if(a>50) {
 			if(a<100) {
-				System.out.printf("50ë³´ë‹¤ í¬ê³  100ë³´ë‹¤ ìž‘ìŠµë‹ˆë‹¤.\n");
+				System.out.printf("50º¸´Ù Å©°í 100º¸´Ù ÀÛ½À´Ï´Ù.\n");
 				
 			}else {
-				System.out.printf("100ë³´ë‹¤ í½ë‹ˆë‹¤.\n");
+				System.out.printf("100º¸´Ù Å®´Ï´Ù.\n");
 			}
 			}else {
-				System.out.printf("50ë³´ë‹¤ ìž‘ìŠµë‹ˆë‹¤.\n");
+				System.out.printf("50º¸´Ù ÀÛ½À´Ï´Ù.\n");
 			}
 		}
 

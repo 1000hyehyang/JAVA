@@ -6,7 +6,7 @@ public class Ex06_05 {
 		Scanner s = new Scanner(System.in);
 		int a;
 		
-		System.out.printf("ì ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: ");
+		System.out.printf("Á¡¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
 		a = s.nextInt();
 		
 		if(a>=90)
@@ -21,9 +21,9 @@ public class Ex06_05 {
 					if(a>=60)
 						System.out.printf("D");
 					else
-						System.out.printf("ì¬ìˆ˜ê°•");
+						System.out.printf("Àç¼ö°­");
 		
-		System.out.printf(" ë‹¹ì‹ ì˜ í•™ì ì…ë‹ˆë‹¤.\n");
+		System.out.printf(" ´ç½ÅÀÇ ÇĞÁ¡ÀÔ´Ï´Ù.\n");
 
 	}
 

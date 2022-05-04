@@ -6,24 +6,24 @@ public class Ex06_06 {
 		Scanner s = new Scanner(System.in);
 		int a;
 		
-		System.out.printf("1~4 ì¤‘ì— ì„ íƒí•˜ì„¸ìš”: ");
+		System.out.printf("1~4 Áß¿¡ ¼±ÅÃÇÏ¼¼¿ä: ");
 		a = s.nextInt();
 		
 		switch(a) {
 		case 1:
-			System.out.printf("1ì„ ì„ íƒí•˜ì…¨ìŠµë‹ˆë‹¤\n");
+			System.out.printf("1À» ¼±ÅÃÇÏ¼Ì½À´Ï´Ù\n");
 		break;
 		case 2:
-			System.out.printf("2ë¥¼ ì„ íƒí•˜ì…¨ìŠµë‹ˆë‹¤\n");
+			System.out.printf("2¸¦ ¼±ÅÃÇÏ¼Ì½À´Ï´Ù\n");
 		break;
 		case 3: 
-			System.out.printf("3ì„ ì„ íƒí•˜ì…¨ìŠµë‹ˆë‹¤\n");
+			System.out.printf("3À» ¼±ÅÃÇÏ¼Ì½À´Ï´Ù\n");
 			break;
 		case 4:
-			System.out.printf("4ë¥¼ ì„ íƒí•˜ì…¨ìŠµë‹ˆë‹¤\b");
+			System.out.printf("4¸¦ ¼±ÅÃÇÏ¼Ì½À´Ï´Ù\b");
 			break;
 			default:
-				System.out.printf("ì‹œí‚¤ì§€ë„ ì•Šì€ ê²ƒì„ ì„ íƒí–ˆêµ°\n");
+				System.out.printf("½ÃÅ°Áöµµ ¾ÊÀº °ÍÀ» ¼±ÅÃÇß±º\n");
 			
 		}
 

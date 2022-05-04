@@ -1,13 +1,14 @@
+
 public class Ex06_01 {
 
 	public static void main(String[] args) {
 		int a = 200;
 		
 		if(a<100) {
-			System.out.printf("100ë³´ë‹¤ ìž‘êµ°ìš”..\n");
-			System.out.printf("ê±°ì§“ì´ë¯€ë¡œ ì´ ë¬¸ìž¥ì€ ì•ˆë³´ì´ê² êµ°\n");
+			System.out.printf("100º¸´Ù ÀÛ±º¿ä..\n");
+			System.out.printf("°ÅÁþÀÌ¹Ç·Î ÀÌ ¹®ÀåÀº ¾Èº¸ÀÌ°Ú±º\n");
 		}
-			System.out.printf("í”„ë¡œê·¸ëž¨ ë!\n");
+			System.out.printf("ÇÁ·Î±×·¥ ³¡!\n");
 	}
 
 }

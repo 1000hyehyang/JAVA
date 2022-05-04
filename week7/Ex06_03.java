@@ -6,13 +6,13 @@ public class Ex06_03 {
 		Scanner s= new Scanner(System.in);
 		int a;
 		
-		System.out.printf("ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”:");
+		System.out.printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä:");
 		a = s.nextInt();
 		
 		if(a%2 == 0) {
-			System.out.printf("ì§ìˆ˜ë¥¼ ì…ë ¥í–ˆìŠµë‹ˆë‹¤\n");
+			System.out.printf("Â¦¼ö¸¦ ÀÔ·ÂÇß½À´Ï´Ù\n");
 		}else {
-			System.out.printf("í™€ìˆ˜ë¥¼ ì…ë ¥í–ˆìŠµë‹ˆë‹¤\n");		
+			System.out.printf("È¦¼ö¸¦ ÀÔ·ÂÇß½À´Ï´Ù\n");		
 		}
 	}
 
